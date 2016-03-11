@@ -72,6 +72,24 @@
     <Reference Include="Xamarin.Forms.Platform">
       <HintPath>..\packages\Xamarin.Forms.2.1.0.6526\lib\MonoAndroid10\Xamarin.Forms.Platform.dll</HintPath>
     </Reference>
+    <Reference Include="NGraphics">
+      <HintPath>..\packages\NGraphics.0.4.0\lib\MonoAndroid10\NGraphics.dll</HintPath>
+    </Reference>
+    <Reference Include="NGraphics.Android">
+      <HintPath>..\packages\NGraphics.0.4.0\lib\MonoAndroid10\NGraphics.Android.dll</HintPath>
+    </Reference>
+    <Reference Include="NControl.Droid">
+      <HintPath>..\packages\NControl.0.8.6\lib\MonoAndroid10\NControl.Droid.dll</HintPath>
+    </Reference>
+    <Reference Include="NControl">
+      <HintPath>..\packages\NControl.0.8.6\lib\MonoAndroid10\NControl.dll</HintPath>
+    </Reference>
+    <Reference Include="TwinTechsForms.NControl.SvgImageView">
+      <HintPath>..\packages\TwinTechsForms.NControl.SvgImageView.0.0.2\lib\MonoAndroid10\TwinTechsForms.NControl.SvgImageView.dll</HintPath>
+    </Reference>
+    <Reference Include="TwinTechsForms.NControl.SvgImageView.Android">
+      <HintPath>..\packages\TwinTechsForms.NControl.SvgImageView.0.0.2\lib\MonoAndroid10\TwinTechsForms.NControl.SvgImageView.Droid.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SvgImageDemo\SvgImageDemo.csproj">
