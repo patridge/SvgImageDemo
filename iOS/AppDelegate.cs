@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-using Foundation;
+﻿using Foundation;
 using UIKit;
+using TwinTechsForms.NControl.iOS;
 
 namespace SvgImageDemo.iOS
 {
@@ -13,6 +10,7 @@ namespace SvgImageDemo.iOS
 		public override bool FinishedLaunching (UIApplication app, NSDictionary options)
 		{
 			global::Xamarin.Forms.Forms.Init ();
+			SvgImageViewRenderer.Init ();
 
 			LoadApplication (new App ());
 

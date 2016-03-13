@@ -1,12 +1,7 @@
-﻿using System;
-
-using Android.App;
-using Android.Content;
+﻿using Android.App;
 using Android.Content.PM;
-using Android.Runtime;
-using Android.Views;
-using Android.Widget;
 using Android.OS;
+using TwinTechsForms.NControl.Android;
 
 namespace SvgImageDemo.Droid
 {
@@ -18,6 +13,7 @@ namespace SvgImageDemo.Droid
 			base.OnCreate (bundle);
 
 			global::Xamarin.Forms.Forms.Init (this, bundle);
+//			SvgImageViewRenderer.Init ();
 
 			LoadApplication (new App ());
 		}
