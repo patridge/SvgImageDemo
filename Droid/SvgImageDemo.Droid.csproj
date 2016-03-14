@@ -85,10 +85,10 @@
       <HintPath>..\packages\NControl.0.8.6\lib\MonoAndroid10\NControl.dll</HintPath>
     </Reference>
     <Reference Include="TwinTechsForms.NControl.SvgImageView">
-      <HintPath>..\packages\TwinTechsForms.NControl.SvgImageView.0.0.2\lib\MonoAndroid10\TwinTechsForms.NControl.SvgImageView.dll</HintPath>
+      <HintPath>..\packages\TwinTechsForms.NControl.SvgImageView.0.0.3\lib\MonoAndroid10\TwinTechsForms.NControl.SvgImageView.dll</HintPath>
     </Reference>
     <Reference Include="TwinTechsForms.NControl.SvgImageView.Android">
-      <HintPath>..\packages\TwinTechsForms.NControl.SvgImageView.0.0.2\lib\MonoAndroid10\TwinTechsForms.NControl.SvgImageView.Droid.dll</HintPath>
+      <HintPath>..\packages\TwinTechsForms.NControl.SvgImageView.0.0.3\lib\MonoAndroid10\TwinTechsForms.NControl.SvgImageView.Android.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
